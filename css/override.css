@@ -1,13 +1,14 @@
 html {
-    background-image: url('../images/background.jpg');
-    background-size: cover;
+  background-image: url("../images/background.jpg");
+  background-size: cover;
 }
 
-article, nav {
-    background-color: rgba(0, 0, 0, 0.8);
+article,
+nav {
+  background-color: rgba(0, 0, 0, 0.9);
 }
 
-article>footer {
-    background-color: rgba(0, 0, 0, 0.8);
-    border-top: black solid 1px;
+article > footer {
+  background-color: rgba(0, 0, 0, 0.9);
+  border-top: black solid 1px;
 }
